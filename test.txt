@@ -1,4 +1,0 @@
-line 1
-line 2
-now there is a line 3!
-line 4
